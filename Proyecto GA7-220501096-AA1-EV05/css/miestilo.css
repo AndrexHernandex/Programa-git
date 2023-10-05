@@ -1,0 +1,70 @@
+.titulorojo{
+    color: red;
+}
+.tituloprincipal{
+    font-size: 60px;
+    color: orange;
+    text-align: center;
+}
+#parrafoaladerecha{
+    color: orchid;
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color: green;
+    font-size: 70px;
+    text-align: center;
+}
+p{
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+img{
+    width: 200px;
+    height: 80px;
+}
+.tituloverde:hover{
+    color: greenyellow;
+    font-size: 50px;
+}
+.moverbotones {
+    margin-left: 40%;
+}
+.alinearparrafo{
+    display: flex;
+}
+.fondogris{
+    background-color: gray;
+}
+.fondoamarillo{
+    background-color: beige;
+}
+.alinearmenu{
+   display: flex;
+   width: 100%; 
+}
+#menuvertical{
+   width: 250px;
+   background-color: aqua; 
+}
+a,:hover,
+a,:focus{
+    color: inherit;
+    text-decoration: none;
+}
+#menuvertical ul  li a{
+    padding: 20px;
+    font-size: 18px;
+    display: block;
+}
+#menuvertical ul li a:hover {
+    background-color: rgb(245, 245, 245);
+}
+.sangria{
+    padding-left: 30px;
+}
+.moverderecha {
+    margin-left: 60%;
+}
